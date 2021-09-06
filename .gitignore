@@ -1,7 +1,10 @@
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 html/.DS_Store
 =======
+=======
+>>>>>>> e54d2161e15a202879c58656b7bd88ed9f472b0b
 node_modules/.bin/acorn
 node_modules/.bin/acorn.cmd
 node_modules/.bin/acorn.ps1
@@ -38880,5 +38883,8 @@ node_modules/yocto-queue/index.js
 node_modules/yocto-queue/license
 node_modules/yocto-queue/package.json
 node_modules/yocto-queue/readme.md
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 .DS_Store
+=======
+>>>>>>> e54d2161e15a202879c58656b7bd88ed9f472b0b
